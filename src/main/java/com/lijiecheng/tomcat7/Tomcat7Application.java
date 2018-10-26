@@ -11,6 +11,6 @@ package com.lijiecheng.tomcat7;
  */
 public class Tomcat7Application {
     public static void main(String[] args) {
-
+        //执行startup.bat
     }
 }
